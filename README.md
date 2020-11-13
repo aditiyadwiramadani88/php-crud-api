@@ -1,2 +1,1 @@
- README.md
- 
+ <p>php console.php migrate </p>
