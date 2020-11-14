@@ -18,8 +18,8 @@
          <td>POST METHOD post Method {"name_product": "name_product", "price":"price"}</td>
 	</tr><tr>
 		<td>localhost:8000/</td>
-		<td>POST AND GET</td>
-         <td>POST GET AND DELETE</td>
+		<td>POST GET AND DELETE</td>
+         <td>EDIT DELETE DETAIL</td>
          <td>POST METHOD post Method {"name_product": "name_product", "price":"price"}</td>
 	</tr>
 </table>
