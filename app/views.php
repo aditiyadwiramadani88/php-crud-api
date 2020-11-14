@@ -1,6 +1,8 @@
 <?php 
 use Request\Server;
+
 class views{ 
+    // Create Read
     public  static function list(){ 
         $server = new Server();
         if($server->Method("POST")){
@@ -10,6 +12,7 @@ class views{
         }
     return model::All();
     }
+    // Edit Delete
     public static function details($id){
           $server = new Server();
         if($server->Method("POST")){
